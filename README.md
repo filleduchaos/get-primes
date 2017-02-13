@@ -1,2 +1,5 @@
 # get-primes
-Andela Self-Learning Clinic - Day 1 (GetPrimes)
+Javascript project for Andela Home Study - Day 1 (GetPrimes)
+
+Run `npm install` to get started
+Run `npm test` to test the code

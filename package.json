@@ -1,0 +1,22 @@
+{
+  "name": "get-primes",
+  "version": "1.0.0",
+  "description": "Javascript project for Andela Home Study Day 1 (GetPrimes)",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.5.0"
+  },
+  "scripts": {
+    "test": "jasmine spec/getprimes-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princess-essien/get-primes.git"
+  },
+  "author": "Princess-Jewel Essien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princess-essien/get-primes/issues"
+  },
+  "homepage": "https://github.com/princess-essien/get-primes#readme"
+}
