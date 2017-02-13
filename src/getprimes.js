@@ -5,5 +5,9 @@ module.exports = {
         if (!Number.isInteger(num)) {
             return 'Not an integer';
         }
+
+        if (num < 0) {
+            return -1;
+        }
     }
 }
